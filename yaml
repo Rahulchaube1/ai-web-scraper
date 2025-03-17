@@ -1,0 +1,19 @@
+
+---
+
+## **🛑 Step 4: Create `.gitignore`**
+To prevent unnecessary files from being uploaded to GitHub, create a `.gitignore` file with the following content:
+
+```gitignore
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore API keys (IMPORTANT)
+config.json
