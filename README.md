@@ -1,4 +1,4 @@
-# AI Web Scraper using Gemini API 🚀
+# AI Web Scraper Rahul Chaube
 
 This project is a simple AI-powered web scraper that uses the Gemini API to extract and analyze website content.
 
